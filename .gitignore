@@ -1,3 +1,5 @@
 venv
 cookies
 pyvenv.cfg
+ffmpeg
+ffmpeg/*
